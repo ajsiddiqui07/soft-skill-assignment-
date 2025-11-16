@@ -21,12 +21,3 @@ while again =='yes'  :
         print("please enter no if you not want to continue")
         if again=='yes' or again=='no':
             break 
-    # again=input("do you want to con? y or n : ")
-    # if again =='y'or again == 'N':
-       
-    #     continue
-    # else:
-    #     while again!='y' or again!='n':
-    #         print("not valid")
-            
-        
