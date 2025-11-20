@@ -1,5 +1,5 @@
-again ='yes'
-while again =='yes'  :
+again ='y'
+while again =='y'  :
     value_1 = int(input("Enter first value : "))
     value_2 = int(input("Enter second value : "))
     print("""1. enter 1 for sum
@@ -15,9 +15,5 @@ while again =='yes'  :
         print(value_1*value_2)
     elif choice==4:
         print(value_1/value_2)
-    while again!='yes' or again!='no':
-        again=input("do you want to con? yes or no : ")
-        if
-        print("please enter no if you not want to continue")
-        if again=='yes' or again=='no':
-            break 
+    again=input("do you want to con? y or n : ")
+       
